@@ -1,0 +1,5 @@
+"총합계 0인 국가 : 총 6 개 국가 ['Diamond Princess', 'Holy See', 'Korea, North', 'MS Zaandam', 'Marshall Islands', 'Winter Olympics 2022']"
+"확진자 이상값 존재 국가(음수) : 총 21 개 국가 ['Antigua and Barbuda', 'Bahamas', 'Brunei', 'Czechia', 'Denmark', 'Dominica', 'Ecuador', 'France', 'Germany', 'Iceland', 'Ireland', 'Israel', 'Kazakhstan', 'Liberia', 'Mozambique', 'New Zealand', 'Philippines', 'Seychelles', 'Spain', 'Sudan', 'United Kingdom']"
+"사망자 이상값 존재 국가(음수) : 총 27 개 국가 ['Armenia', 'Australia', 'Belize', 'Bosnia and Herzegovina', 'Burma', 'Cabo Verde', 'Canada', 'Chile', 'Czechia', 'Fiji', 'Germany', 'Guatemala', 'Haiti', 'Honduras', 'Ireland', 'Israel', 'Kazakhstan', 'Liberia', 'Montenegro', 'Mozambique', 'Namibia', 'Norway', 'Peru', 'Sao Tome and Principe', 'Sweden', 'Switzerland', 'Uganda']"
+확진자 결측값 존재 국가(Nan) : 총 1 개 국가 ['Micronesia']
+사망자 결측값 존재 국가(Nan) : 총 1 개 국가 ['Micronesia']
