@@ -6,8 +6,7 @@ Science and Engineering(CSSE) 에서 업데이트 하는 전세계 코로나(COV
 생 현황 데이터셋이다.
 제공된 데이터셋 중 2021년 일간 데이터에서 Python,R code로 다음을 수행하고 결과를
 팀 별로 리포트 하시오.
-https://github.com/CSSEGISandData/COVID-19/tree/770dafdb73e9dc31140db77b13b1b92cfd8241f9/csse_covid_19_data/csse_covid_19_daily_re
-ports
+https://github.com/CSSEGISandData/COVID-19/tree/770dafdb73e9dc31140db77b13b1b92cfd8241f9/csse_covid_19_data/csse_covid_19_daily_reports
 
 (1) 일별 국가별 코로나 발생자수와 사망자 수를 기준으로 전처리 하시오. 일부
 국가는 지역별로 코로나 발생자수와 사망자 수가 분리되어 있으니 국가별로 집계
